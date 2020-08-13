@@ -1,4 +1,14 @@
-### Hi there 👋
+# __Hi there, I'm Daniele Albanese__ 👋
+
+## 🔭 I’m currently working on:
+- Android Malware
+- React Native APP
+- Machine Learning
+
+## 📫 How to reach me: ...
+- Skype: *live:daniele.albanese98*
+- Discord: *DJ-D#3862*
+- E-mail: [*d.albanese1@studenti.unimol.it*](mailto:d.albanese1@studenti.unimol.it)
 
 <!--
 **dj-d/dj-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
