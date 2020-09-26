@@ -9,6 +9,7 @@
 - Skype: *live:daniele.albanese98*
 - Discord: *DJ-D#3862*
 - E-mail: [*d.albanese1@studenti.unimol.it*](mailto:d.albanese1@studenti.unimol.it)
+- Linkedin: [*Daniele Albanese*](https://www.linkedin.com/in/daniele-albanese-1aab1091)
 
 <!--
 **dj-d/dj-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
