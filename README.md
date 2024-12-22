@@ -1,28 +1,34 @@
-# __Hi there, I'm Daniele Albanese__ 👋
+# Hi there, I'm Daniele Albanese aka DJ-D! 👋
 
-## 🔭 I’m currently working on:
-- Android Malware
-- React Native APP
-- Machine Learning
+## About Me
 
-## 📫 How to reach me: ...
-- Skype: *live:daniele.albanese98*
-- Discord: *DJ-D#3862*
-- E-mail: [*d.albanese1@studenti.unimol.it*](mailto:d.albanese1@studenti.unimol.it)
-- Linkedin: [*Daniele Albanese*](https://www.linkedin.com/in/daniele-albanese-1aab1091)
-- Website: https://dj-d.github.io/
+I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. I enjoy working on open-source projects and collaborating with the community.
 
-<!--
-**dj-d/dj-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Languages:** Python, Bash, Java
+- **Frameworks & Libraries:** React, Node.js, Express, FastApi, Flask
+- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions, GitLab CI/CD
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Here are a few projects I've worked on:
+
+- **[DJD-IoT-Framework](https://github.com/dj-d/DJD-IoT-Framework):** A framework to manage IoT devices.
+- **[AmazonPriceTracker](https://github.com/dj-d/AmazonPriceTracker):**  Telegram bot to check the price change of amazon products.
+- **[MusicGenRetor](https://github.com/dj-d/MusicGenRetor):** Music genre classification with Machine Learning .
+
+## GitHub Stats
+
+![DJ-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-d&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- **Email:** [d.albanese1@studenti.unimol.it](mailto:d.albanese1@studenti.unimol.it)
+- **LinkedIn:** [Daniele Albanese](https://www.linkedin.com/in/daniele-albanese-1aab1091)
+- **Website:** [@your-twitter-handle](https://dj-d.github.io/)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+![Profile Views](https://komarev.com/ghpvc/?username=dj-d&color=blue)
